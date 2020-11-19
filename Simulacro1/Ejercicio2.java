@@ -164,14 +164,14 @@ public class Ejercicio2 {
     
     System.out.println("EL POLITO BONITO - PRESUPUESTO");
     System.out.println("");
-    System.out.println("Cantidad de polos pedidos:  " + polo + " u");
+    System.out.println("Cantidad de polos pedidos:     " + polo + " u");
     System.out.println("Precio unitario de cada uno:   " + precioPoloFinal + " euros");
-    System.out.println("Total textil:   " + (polo*precioPoloFinal));
-    System.out.println("Serografia (por unidad):   " + precioSerografiaPorUnidad + " euros");
-    System.out.println("Serografia (total):   " +  + (precioSerografiaPorUnidad*polo) + " euros");
-    System.out.println("Logotipo (por unidad):   " + precioBordadoPorUnidad + " euros");
-    System.out.println("Logotipo (por unidad):   " + (precioBordadoPorUnidad*polo) + " euros");
-    System.out.println("Total sin IVA:   " + precioTotalSinIva);
-    System.out.println("Total con IVA:   " + (precioTotalSinIva*1.21));
+    System.out.println("Total textil:                  " + (polo*precioPoloFinal));
+    System.out.println("Serografia (por unidad):       " + precioSerografiaPorUnidad + " euros");
+    System.out.println("Serografia (total):            " +  + (precioSerografiaPorUnidad*polo) + " euros");
+    System.out.println("Logotipo (por unidad):         " + precioBordadoPorUnidad + " euros");
+    System.out.println("Logotipo (por unidad):         " + (precioBordadoPorUnidad*polo) + " euros");
+    System.out.println("Total sin IVA:                 " + precioTotalSinIva);
+    System.out.println("Total con IVA:                 " + (precioTotalSinIva*1.21));
 	}
 }
