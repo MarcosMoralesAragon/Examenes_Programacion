@@ -1,8 +1,7 @@
 # Examenes_Programacion
- #INDICE#
+ *INDICE*
 
-[*Simulacro1*](https://github.com/MarcosMoralesAragon/Examenes_Programacion/tree/main/Simulacro1)
+Simulacros y Examenes de programación
 
-
-Ejercicios realizados durante el simulacro de 3 horas de duración, en el dia 11/11/2020.
-Todos los ejercicios aparecen comentados explicando cada funcion de los bloques en los que he dividido el código.
+1º Examen --> 10
+2ª Examen --> 7 ( el ejercicio 1 no funciona y el 3 tiene un pequeño fallo en la salida formateada de datos )

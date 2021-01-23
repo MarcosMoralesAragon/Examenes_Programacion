@@ -8,8 +8,8 @@ public class Ejercicio1{
     
     System.out.println("Introduce la altura del hola que desea generar (que sea un numero impar mayor o igual a 3)");
     System.out.print("> ");
+    
     int alturaIntroducida = 0;
-  
     boolean alturaCorrecta = false;
     
     while(!alturaCorrecta){
